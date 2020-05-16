@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1589572560 source:c:\users\rodio\desktop\task 2 spisok\function s.cpp
+	"spisok_head.h"
+
+1589569171 c:\users\rodio\desktop\task 2 spisok\spisok_head.h
+	<iostream>
+
+1589573088 source:c:\users\rodio\desktop\task 2 spisok\main.cpp
+	"spisok_head.h"
+	<iostream>
+
